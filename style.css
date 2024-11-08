@@ -1,0 +1,11 @@
+.content {
+    padding: 30px;
+}
+
+
+@media (max-width: 600px) {
+    .content  {
+        font-size: 14px;
+    }
+}
+
